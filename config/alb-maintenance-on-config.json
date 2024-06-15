@@ -1,0 +1,10 @@
+[
+    {
+        "Type":"fixed-response",
+        "FixedResponseConfig": { 
+            "MessageBody" : "Service in Maintenance", 
+            "StatusCode" : "503", 
+            "ContentType" : "text/plain" 
+        }
+    }
+]
